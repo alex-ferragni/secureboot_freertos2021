@@ -1,0 +1,8 @@
+**.DS_Store
+**/build
+**/openocd.txt
+**/__pycache__
+**/st/rss.h
+**/st/rss.c
+**/st/LICENSE.txt
+Bootloader/Common/keys
